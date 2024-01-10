@@ -1,0 +1,14 @@
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\bin\Debug\net8.0\Table of Temperature Conversion.exe
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\bin\Debug\net8.0\Table of Temperature Conversion.deps.json
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\bin\Debug\net8.0\Table of Temperature Conversion.runtimeconfig.json
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\bin\Debug\net8.0\Table of Temperature Conversion.dll
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\bin\Debug\net8.0\Table of Temperature Conversion.pdb
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\Table of Temperature Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\Table of Temperature Conversion.AssemblyInfoInputs.cache
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\Table of Temperature Conversion.AssemblyInfo.cs
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\Table of Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\Table of Temperature Conversion.dll
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\refint\Table of Temperature Conversion.dll
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\Table of Temperature Conversion.pdb
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\Table of Temperature Conversion.genruntimeconfig.cache
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\Table of Temperature Conversion\Table of Temperature Conversion\obj\Debug\net8.0\ref\Table of Temperature Conversion.dll

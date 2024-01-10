@@ -1,0 +1,4 @@
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.AssemblyInfoInputs.cache
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.AssemblyInfo.cs
+C:\Users\leora\Downloads\Quarter 2\Computer Programming III\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.csproj.CoreCompileInputs.cache
