@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leora\\Downloads\\Quarter 2\\Computer Programming III\\IntroToClasses\\IntroToClasses\\IntroToClasses.csproj": {}
+    "C:\\Users\\leora\\Downloads\\Quarter 2\\ComputerProgrammingIII\\IntroToClasses\\IntroToClasses\\IntroToClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leora\\Downloads\\Quarter 2\\Computer Programming III\\IntroToClasses\\IntroToClasses\\IntroToClasses.csproj": {
+    "C:\\Users\\leora\\Downloads\\Quarter 2\\ComputerProgrammingIII\\IntroToClasses\\IntroToClasses\\IntroToClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leora\\Downloads\\Quarter 2\\Computer Programming III\\IntroToClasses\\IntroToClasses\\IntroToClasses.csproj",
+        "projectUniqueName": "C:\\Users\\leora\\Downloads\\Quarter 2\\ComputerProgrammingIII\\IntroToClasses\\IntroToClasses\\IntroToClasses.csproj",
         "projectName": "IntroToClasses",
-        "projectPath": "C:\\Users\\leora\\Downloads\\Quarter 2\\Computer Programming III\\IntroToClasses\\IntroToClasses\\IntroToClasses.csproj",
+        "projectPath": "C:\\Users\\leora\\Downloads\\Quarter 2\\ComputerProgrammingIII\\IntroToClasses\\IntroToClasses\\IntroToClasses.csproj",
         "packagesPath": "C:\\Users\\leora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leora\\Downloads\\Quarter 2\\Computer Programming III\\IntroToClasses\\IntroToClasses\\obj\\",
+        "outputPath": "C:\\Users\\leora\\Downloads\\Quarter 2\\ComputerProgrammingIII\\IntroToClasses\\IntroToClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

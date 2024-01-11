@@ -2,3 +2,18 @@ C:\Users\leora\Downloads\Quarter 2\Computer Programming III\IntroToClasses\Intro
 C:\Users\leora\Downloads\Quarter 2\Computer Programming III\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.AssemblyInfoInputs.cache
 C:\Users\leora\Downloads\Quarter 2\Computer Programming III\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.AssemblyInfo.cs
 C:\Users\leora\Downloads\Quarter 2\Computer Programming III\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.csproj.CoreCompileInputs.cache
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\bin\Debug\net8.0\IntroToClasses.exe
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\bin\Debug\net8.0\IntroToClasses.deps.json
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\bin\Debug\net8.0\IntroToClasses.runtimeconfig.json
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\bin\Debug\net8.0\IntroToClasses.dll
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\bin\Debug\net8.0\IntroToClasses.pdb
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.AssemblyInfoInputs.cache
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.AssemblyInfo.cs
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.csproj.CoreCompileInputs.cache
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.sourcelink.json
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.dll
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\refint\IntroToClasses.dll
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.pdb
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\IntroToClasses.genruntimeconfig.cache
+C:\Users\leora\Downloads\Quarter 2\ComputerProgrammingIII\IntroToClasses\IntroToClasses\obj\Debug\net8.0\ref\IntroToClasses.dll

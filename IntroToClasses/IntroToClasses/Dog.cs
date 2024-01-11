@@ -21,7 +21,7 @@ namespace IntroToClasses
             age = 0;
             weight = 0.0;
         }
-        public Dog(String name, String breed, String color, int age, age weight)
+        public Dog(String name, String breed, String color, int age, double weight)
         {
             this.name = name;
             this.breed = breed;
@@ -36,6 +36,24 @@ namespace IntroToClasses
             set { name = value; }
         }
 
+        public string Breed
+        {
+            get { return breed; }
+            set { breed = value; }
+
+        }
+
+        public string Color
+        {
+            get { return color; }
+            set { name = value; }
+        }
+
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
 
         public String toString()
         {
